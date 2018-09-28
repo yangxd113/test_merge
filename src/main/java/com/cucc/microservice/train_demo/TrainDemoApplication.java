@@ -12,6 +12,6 @@ public class TrainDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TrainDemoApplication.class, args);
-		System.out.println("进入trainddemo");
+		System.out.println("hello master!");
 	}
 }
